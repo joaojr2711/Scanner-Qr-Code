@@ -1,17 +1,21 @@
-# scannerqrcodeapp
+## 📱📷 Scanner Qr Code
 
-A new Flutter project.
+## 💻 Tecnologias usadas:
 
-## Getting Started
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-This project is a starting point for a Flutter application.
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+Lib: 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- <a href="https://pub.dev/packages/flutter_barcode_scanner"> flutter_barcode_scanner </a>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Scanner-Qr-Code
+## ℹ️ Projeto
+O app de scanear Qr-Code é um projeto a fins de estudar a tecnologia Flutter e Dart.
+
+## App 
+
+
+![Imagem do WhatsApp de 2022-11-03 à(s) 10 35 55](https://user-images.githubusercontent.com/56551979/199738355-a186300b-a470-4121-a1f5-06f221d62a29.jpg)
+![Imagem do WhatsApp de 2022-11-03 à(s) 10 36 06](https://user-images.githubusercontent.com/56551979/199738363-907951fd-a781-4725-a818-30e8895a9d1d.jpg)
